@@ -4,5 +4,5 @@ This project is made for film lovers! A movie is selected every day so the users
 
 ## Tech Stack
 
-## Vue.js/TailwindCSS
-## NodeJS/Express/MongoDB
+### Vue.js/TailwindCSS
+### NodeJS/Express/MongoDB
